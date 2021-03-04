@@ -6,3 +6,7 @@
 	- Electrophysiology basics
     - Signal analysis applications in neuroscience
     - Introduction to Matlab
+2. Lesson 02
+	- Complex plane representations
+	- Fourier transform
+    - Power spectrum
