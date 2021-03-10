@@ -10,3 +10,8 @@
 	- Complex plane representations
 	- Fourier transform
     - Power spectrum
+3. Lesson 03
+	- Time-frequency resolution (uncertainty principle)
+	- Discrete time-frequency decomposition
+	- Welch's periodogram
+	- List of exercises 01
