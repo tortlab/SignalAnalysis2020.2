@@ -15,3 +15,8 @@
 	- Discrete time-frequency decomposition
 	- Welch's periodogram
 	- List of exercises 01
+4. Lesson 04
+	- Time-frequency decomposition
+	- Normalizations
+	- Baseline normalization
+	- List of exercises 02
