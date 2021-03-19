@@ -20,3 +20,7 @@
 	- Normalizations
 	- Baseline normalization
 	- List of exercises 02
+5. Lesson 05
+	- Phase coherence
+	- Coherence spectrum
+	- Coherograms
