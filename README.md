@@ -24,3 +24,8 @@
 	- Phase coherence
 	- Coherence spectrum
 	- Coherograms
+6. Lesson 06
+	- Signal sampling
+	- Aliasing
+	- Nyquist frequency
+	- List of exercises 03
