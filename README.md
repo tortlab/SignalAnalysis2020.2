@@ -29,3 +29,7 @@
 	- Aliasing
 	- Nyquist frequency
 	- List of exercises 03
+7. Lesson 07
+	- Convolutions
+	- Edge effects
+	- Introduction to filters
