@@ -38,3 +38,7 @@
 	- Low-pass and high-pass filters
 	- Band-pass filters
 	- Notch filters
+9. Lesson 09
+	- Hilbert transform
+	- Amplitude envelopes
+	- Amplitude spectrum
