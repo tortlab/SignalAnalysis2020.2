@@ -33,3 +33,8 @@
 	- Convolutions
 	- Edge effects
 	- Introduction to filters
+8. Lesson 08
+	- Filters
+	- Low-pass and high-pass filters
+	- Band-pass filters
+	- Notch filters
