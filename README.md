@@ -28,7 +28,7 @@
 	- Signal sampling
 	- Aliasing
 	- Nyquist frequency
-	- List of exercises 03
+	- List of exercises 03 (first course assessment)
 7. Lesson 07
 	- Convolutions
 	- Edge effects
@@ -42,3 +42,4 @@
 	- Hilbert transform
 	- Amplitude envelopes
 	- Amplitude spectrum
+	- List of exercises 04
