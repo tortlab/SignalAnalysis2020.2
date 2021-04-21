@@ -47,3 +47,7 @@
 	 - Introduction to wavelets
 	 - Morlet wavelets
 	 - Continuous TFD via wavelets
+11. Lesson 11
+	 - Intantaneous phase and frequency
+	 - Phase-locking metrics
+	 - Phase-locking values (PLV)
