@@ -50,4 +50,5 @@
 11. Lesson 11
 	 - Intantaneous phase and frequency
 	 - Phase-locking metrics
-	 - Phase-locking values (PLV)
+	 - Phase-locking value (PLV)
+	 - List of exercises 05 (second course assessment)
