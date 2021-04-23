@@ -52,3 +52,8 @@
 	 - Phase-locking metrics
 	 - Phase-locking value (PLV)
 	 - List of exercises 05 (second course assessment)
+12. Lesson 12
+	 - PLV spectrum
+	 - Von Mises distributions
+	 - Modulation Index (MI)
+	 - Inter-trial coherence (ITC)
