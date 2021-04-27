@@ -57,3 +57,8 @@
 	 - Von Mises distributions
 	 - Modulation Index (MI)
 	 - Inter-trial coherence (ITC)
+13. Lesson 13
+	 - Auto-correlogram (ACG)
+	 - Cross-correlogram (CCG)
+	 - CCG normalization
+	 - Relationship between CCG and Power
